@@ -1,4 +1,1 @@
-# coding-demo
-This is my first Git Repository
-<br>
-Author - kalyani pawar
+## My Git and GitHub Practice
